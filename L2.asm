@@ -1,0 +1,8 @@
+MVI A, 15H
+CMA
+
+INR A
+
+STA 2000H
+
+HLT
